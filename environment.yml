@@ -1,0 +1,10 @@
+name: bulk-rnaseq-de-benchmark
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.4
+  - bioconductor-deseq2
+  - bioconductor-edger
+  - bioconductor-limma
+  - r-ggplot2

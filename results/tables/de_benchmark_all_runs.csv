@@ -1,0 +1,701 @@
+"scenario","n_per_group","rep","method","called","false","fdp","power"
+"10% DE",3,1,"DESeq2",419,34,0.081145584725537,0.641666666666667
+"10% DE",3,1,"edgeR QL",396,23,0.0580808080808081,0.621666666666667
+"10% DE",3,1,"limma-voom",369,21,0.0569105691056911,0.58
+"10% DE",3,1,"t-test on log CPM",0,0,0,0
+"10% DE",3,1,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,2,"DESeq2",420,39,0.0928571428571429,0.635
+"10% DE",3,2,"edgeR QL",405,23,0.0567901234567901,0.636666666666667
+"10% DE",3,2,"limma-voom",388,19,0.0489690721649485,0.615
+"10% DE",3,2,"t-test on log CPM",0,0,0,0
+"10% DE",3,2,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,3,"DESeq2",438,35,0.0799086757990868,0.671666666666667
+"10% DE",3,3,"edgeR QL",410,19,0.0463414634146341,0.651666666666667
+"10% DE",3,3,"limma-voom",401,16,0.0399002493765586,0.641666666666667
+"10% DE",3,3,"t-test on log CPM",0,0,0,0
+"10% DE",3,3,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,4,"DESeq2",450,26,0.0577777777777778,0.706666666666667
+"10% DE",3,4,"edgeR QL",440,20,0.0454545454545455,0.7
+"10% DE",3,4,"limma-voom",418,17,0.0406698564593301,0.668333333333333
+"10% DE",3,4,"t-test on log CPM",1,0,0,0.00166666666666667
+"10% DE",3,4,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,5,"DESeq2",403,17,0.0421836228287841,0.643333333333333
+"10% DE",3,5,"edgeR QL",379,11,0.029023746701847,0.613333333333333
+"10% DE",3,5,"limma-voom",371,11,0.0296495956873315,0.6
+"10% DE",3,5,"t-test on log CPM",0,0,0,0
+"10% DE",3,5,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,6,"DESeq2",438,22,0.0502283105022831,0.693333333333333
+"10% DE",3,6,"edgeR QL",409,16,0.039119804400978,0.655
+"10% DE",3,6,"limma-voom",404,16,0.0396039603960396,0.646666666666667
+"10% DE",3,6,"t-test on log CPM",4,0,0,0.00666666666666667
+"10% DE",3,6,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,7,"DESeq2",438,29,0.0662100456621005,0.681666666666667
+"10% DE",3,7,"edgeR QL",405,13,0.0320987654320988,0.653333333333333
+"10% DE",3,7,"limma-voom",397,15,0.0377833753148615,0.636666666666667
+"10% DE",3,7,"t-test on log CPM",2,0,0,0.00333333333333333
+"10% DE",3,7,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,8,"DESeq2",446,30,0.0672645739910314,0.693333333333333
+"10% DE",3,8,"edgeR QL",424,18,0.0424528301886792,0.676666666666667
+"10% DE",3,8,"limma-voom",412,18,0.0436893203883495,0.656666666666667
+"10% DE",3,8,"t-test on log CPM",10,0,0,0.0166666666666667
+"10% DE",3,8,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,9,"DESeq2",426,34,0.07981220657277,0.653333333333333
+"10% DE",3,9,"edgeR QL",403,22,0.054590570719603,0.635
+"10% DE",3,9,"limma-voom",385,18,0.0467532467532468,0.611666666666667
+"10% DE",3,9,"t-test on log CPM",6,0,0,0.01
+"10% DE",3,9,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,10,"DESeq2",434,30,0.0691244239631336,0.673333333333333
+"10% DE",3,10,"edgeR QL",415,18,0.0433734939759036,0.661666666666667
+"10% DE",3,10,"limma-voom",392,13,0.0331632653061225,0.631666666666667
+"10% DE",3,10,"t-test on log CPM",16,0,0,0.0266666666666667
+"10% DE",3,10,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,11,"DESeq2",461,42,0.0911062906724512,0.698333333333333
+"10% DE",3,11,"edgeR QL",435,29,0.0666666666666667,0.676666666666667
+"10% DE",3,11,"limma-voom",415,22,0.0530120481927711,0.655
+"10% DE",3,11,"t-test on log CPM",1,0,0,0.00166666666666667
+"10% DE",3,11,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,12,"DESeq2",455,29,0.0637362637362637,0.71
+"10% DE",3,12,"edgeR QL",439,24,0.0546697038724374,0.691666666666667
+"10% DE",3,12,"limma-voom",406,16,0.0394088669950739,0.65
+"10% DE",3,12,"t-test on log CPM",15,0,0,0.025
+"10% DE",3,12,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,13,"DESeq2",432,32,0.0740740740740741,0.666666666666667
+"10% DE",3,13,"edgeR QL",404,20,0.0495049504950495,0.64
+"10% DE",3,13,"limma-voom",395,18,0.0455696202531646,0.628333333333333
+"10% DE",3,13,"t-test on log CPM",6,1,0.166666666666667,0.00833333333333333
+"10% DE",3,13,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,14,"DESeq2",460,50,0.108695652173913,0.683333333333333
+"10% DE",3,14,"edgeR QL",422,31,0.0734597156398104,0.651666666666667
+"10% DE",3,14,"limma-voom",410,29,0.0707317073170732,0.635
+"10% DE",3,14,"t-test on log CPM",6,1,0.166666666666667,0.00833333333333333
+"10% DE",3,14,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,15,"DESeq2",439,27,0.061503416856492,0.686666666666667
+"10% DE",3,15,"edgeR QL",421,17,0.0403800475059382,0.673333333333333
+"10% DE",3,15,"limma-voom",409,14,0.0342298288508557,0.658333333333333
+"10% DE",3,15,"t-test on log CPM",0,0,0,0
+"10% DE",3,15,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,16,"DESeq2",432,31,0.0717592592592593,0.668333333333333
+"10% DE",3,16,"edgeR QL",412,22,0.0533980582524272,0.65
+"10% DE",3,16,"limma-voom",399,20,0.050125313283208,0.631666666666667
+"10% DE",3,16,"t-test on log CPM",2,0,0,0.00333333333333333
+"10% DE",3,16,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,17,"DESeq2",432,23,0.0532407407407407,0.681666666666667
+"10% DE",3,17,"edgeR QL",405,12,0.0296296296296296,0.655
+"10% DE",3,17,"limma-voom",394,11,0.0279187817258883,0.638333333333333
+"10% DE",3,17,"t-test on log CPM",0,0,0,0
+"10% DE",3,17,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,18,"DESeq2",400,18,0.045,0.636666666666667
+"10% DE",3,18,"edgeR QL",384,15,0.0390625,0.615
+"10% DE",3,18,"limma-voom",354,9,0.0254237288135593,0.575
+"10% DE",3,18,"t-test on log CPM",0,0,0,0
+"10% DE",3,18,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,19,"DESeq2",421,35,0.0831353919239905,0.643333333333333
+"10% DE",3,19,"edgeR QL",394,19,0.0482233502538071,0.625
+"10% DE",3,19,"limma-voom",366,11,0.0300546448087432,0.591666666666667
+"10% DE",3,19,"t-test on log CPM",9,0,0,0.015
+"10% DE",3,19,"Wilcoxon on CPM",0,0,0,0
+"10% DE",3,20,"DESeq2",434,32,0.0737327188940092,0.67
+"10% DE",3,20,"edgeR QL",416,24,0.0576923076923077,0.653333333333333
+"10% DE",3,20,"limma-voom",397,19,0.0478589420654912,0.63
+"10% DE",3,20,"t-test on log CPM",7,0,0,0.0116666666666667
+"10% DE",3,20,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,1,"DESeq2",517,32,0.0618955512572534,0.808333333333333
+"10% DE",5,1,"edgeR QL",486,21,0.0432098765432099,0.775
+"10% DE",5,1,"limma-voom",479,18,0.0375782881002088,0.768333333333333
+"10% DE",5,1,"t-test on log CPM",381,7,0.0183727034120735,0.623333333333333
+"10% DE",5,1,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,2,"DESeq2",538,37,0.0687732342007435,0.835
+"10% DE",5,2,"edgeR QL",513,23,0.0448343079922027,0.816666666666667
+"10% DE",5,2,"limma-voom",509,24,0.0471512770137525,0.808333333333333
+"10% DE",5,2,"t-test on log CPM",385,5,0.012987012987013,0.633333333333333
+"10% DE",5,2,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,3,"DESeq2",540,43,0.0796296296296296,0.828333333333333
+"10% DE",5,3,"edgeR QL",512,24,0.046875,0.813333333333333
+"10% DE",5,3,"limma-voom",497,18,0.0362173038229376,0.798333333333333
+"10% DE",5,3,"t-test on log CPM",405,11,0.0271604938271605,0.656666666666667
+"10% DE",5,3,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,4,"DESeq2",542,41,0.0756457564575646,0.835
+"10% DE",5,4,"edgeR QL",527,35,0.0664136622390892,0.82
+"10% DE",5,4,"limma-voom",513,31,0.0604288499025341,0.803333333333333
+"10% DE",5,4,"t-test on log CPM",432,21,0.0486111111111111,0.685
+"10% DE",5,4,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,5,"DESeq2",538,43,0.0799256505576208,0.825
+"10% DE",5,5,"edgeR QL",495,23,0.0464646464646465,0.786666666666667
+"10% DE",5,5,"limma-voom",483,18,0.0372670807453416,0.775
+"10% DE",5,5,"t-test on log CPM",398,13,0.0326633165829146,0.641666666666667
+"10% DE",5,5,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,6,"DESeq2",502,22,0.0438247011952191,0.8
+"10% DE",5,6,"edgeR QL",469,9,0.0191897654584222,0.766666666666667
+"10% DE",5,6,"limma-voom",457,10,0.0218818380743982,0.745
+"10% DE",5,6,"t-test on log CPM",371,11,0.0296495956873315,0.6
+"10% DE",5,6,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,7,"DESeq2",538,45,0.0836431226765799,0.821666666666667
+"10% DE",5,7,"edgeR QL",512,30,0.05859375,0.803333333333333
+"10% DE",5,7,"limma-voom",504,25,0.0496031746031746,0.798333333333333
+"10% DE",5,7,"t-test on log CPM",408,16,0.0392156862745098,0.653333333333333
+"10% DE",5,7,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,8,"DESeq2",546,45,0.0824175824175824,0.835
+"10% DE",5,8,"edgeR QL",520,29,0.0557692307692308,0.818333333333333
+"10% DE",5,8,"limma-voom",512,27,0.052734375,0.808333333333333
+"10% DE",5,8,"t-test on log CPM",404,14,0.0346534653465347,0.65
+"10% DE",5,8,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,9,"DESeq2",549,45,0.0819672131147541,0.84
+"10% DE",5,9,"edgeR QL",511,20,0.0391389432485323,0.818333333333333
+"10% DE",5,9,"limma-voom",504,20,0.0396825396825397,0.806666666666667
+"10% DE",5,9,"t-test on log CPM",408,16,0.0392156862745098,0.653333333333333
+"10% DE",5,9,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,10,"DESeq2",535,44,0.0822429906542056,0.818333333333333
+"10% DE",5,10,"edgeR QL",505,30,0.0594059405940594,0.791666666666667
+"10% DE",5,10,"limma-voom",493,26,0.0527383367139959,0.778333333333333
+"10% DE",5,10,"t-test on log CPM",410,20,0.0487804878048781,0.65
+"10% DE",5,10,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,11,"DESeq2",534,34,0.0636704119850187,0.833333333333333
+"10% DE",5,11,"edgeR QL",499,17,0.0340681362725451,0.803333333333333
+"10% DE",5,11,"limma-voom",487,15,0.0308008213552361,0.786666666666667
+"10% DE",5,11,"t-test on log CPM",410,10,0.024390243902439,0.666666666666667
+"10% DE",5,11,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,12,"DESeq2",535,33,0.0616822429906542,0.836666666666667
+"10% DE",5,12,"edgeR QL",503,20,0.0397614314115308,0.805
+"10% DE",5,12,"limma-voom",490,17,0.0346938775510204,0.788333333333333
+"10% DE",5,12,"t-test on log CPM",367,8,0.0217983651226158,0.598333333333333
+"10% DE",5,12,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,13,"DESeq2",507,37,0.0729783037475345,0.783333333333333
+"10% DE",5,13,"edgeR QL",479,23,0.0480167014613779,0.76
+"10% DE",5,13,"limma-voom",467,21,0.0449678800856531,0.743333333333333
+"10% DE",5,13,"t-test on log CPM",378,11,0.0291005291005291,0.611666666666667
+"10% DE",5,13,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,14,"DESeq2",536,42,0.0783582089552239,0.823333333333333
+"10% DE",5,14,"edgeR QL",514,27,0.0525291828793774,0.811666666666667
+"10% DE",5,14,"limma-voom",496,23,0.0463709677419355,0.788333333333333
+"10% DE",5,14,"t-test on log CPM",387,14,0.0361757105943152,0.621666666666667
+"10% DE",5,14,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,15,"DESeq2",541,47,0.0868761552680222,0.823333333333333
+"10% DE",5,15,"edgeR QL",508,28,0.0551181102362205,0.8
+"10% DE",5,15,"limma-voom",505,26,0.0514851485148515,0.798333333333333
+"10% DE",5,15,"t-test on log CPM",410,16,0.0390243902439024,0.656666666666667
+"10% DE",5,15,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,16,"DESeq2",536,50,0.0932835820895522,0.81
+"10% DE",5,16,"edgeR QL",497,25,0.0503018108651912,0.786666666666667
+"10% DE",5,16,"limma-voom",491,24,0.0488798370672098,0.778333333333333
+"10% DE",5,16,"t-test on log CPM",399,12,0.0300751879699248,0.645
+"10% DE",5,16,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,17,"DESeq2",523,32,0.0611854684512428,0.818333333333333
+"10% DE",5,17,"edgeR QL",504,20,0.0396825396825397,0.806666666666667
+"10% DE",5,17,"limma-voom",497,21,0.0422535211267606,0.793333333333333
+"10% DE",5,17,"t-test on log CPM",395,11,0.0278481012658228,0.64
+"10% DE",5,17,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,18,"DESeq2",524,46,0.0877862595419847,0.796666666666667
+"10% DE",5,18,"edgeR QL",490,27,0.0551020408163265,0.771666666666667
+"10% DE",5,18,"limma-voom",486,30,0.0617283950617284,0.76
+"10% DE",5,18,"t-test on log CPM",393,13,0.0330788804071247,0.633333333333333
+"10% DE",5,18,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,19,"DESeq2",540,44,0.0814814814814815,0.826666666666667
+"10% DE",5,19,"edgeR QL",497,24,0.0482897384305835,0.788333333333333
+"10% DE",5,19,"limma-voom",492,26,0.0528455284552846,0.776666666666667
+"10% DE",5,19,"t-test on log CPM",397,11,0.0277078085642317,0.643333333333333
+"10% DE",5,19,"Wilcoxon on CPM",0,0,0,0
+"10% DE",5,20,"DESeq2",514,34,0.066147859922179,0.8
+"10% DE",5,20,"edgeR QL",497,24,0.0482897384305835,0.788333333333333
+"10% DE",5,20,"limma-voom",479,22,0.0459290187891441,0.761666666666667
+"10% DE",5,20,"t-test on log CPM",386,14,0.0362694300518135,0.62
+"10% DE",5,20,"Wilcoxon on CPM",0,0,0,0
+"10% DE",10,1,"DESeq2",602,41,0.0681063122923588,0.935
+"10% DE",10,1,"edgeR QL",572,28,0.048951048951049,0.906666666666667
+"10% DE",10,1,"limma-voom",563,25,0.044404973357016,0.896666666666667
+"10% DE",10,1,"t-test on log CPM",547,22,0.0402193784277879,0.875
+"10% DE",10,1,"Wilcoxon on CPM",537,14,0.0260707635009311,0.871666666666667
+"10% DE",10,2,"DESeq2",588,39,0.0663265306122449,0.915
+"10% DE",10,2,"edgeR QL",560,31,0.0553571428571429,0.881666666666667
+"10% DE",10,2,"limma-voom",555,30,0.0540540540540541,0.875
+"10% DE",10,2,"t-test on log CPM",545,27,0.0495412844036697,0.863333333333333
+"10% DE",10,2,"Wilcoxon on CPM",535,23,0.0429906542056075,0.853333333333333
+"10% DE",10,3,"DESeq2",583,30,0.0514579759862779,0.921666666666667
+"10% DE",10,3,"edgeR QL",555,17,0.0306306306306306,0.896666666666667
+"10% DE",10,3,"limma-voom",549,16,0.029143897996357,0.888333333333333
+"10% DE",10,3,"t-test on log CPM",537,19,0.0353817504655493,0.863333333333333
+"10% DE",10,3,"Wilcoxon on CPM",531,19,0.0357815442561205,0.853333333333333
+"10% DE",10,4,"DESeq2",582,32,0.0549828178694158,0.916666666666667
+"10% DE",10,4,"edgeR QL",549,20,0.0364298724954463,0.881666666666667
+"10% DE",10,4,"limma-voom",546,23,0.0421245421245421,0.871666666666667
+"10% DE",10,4,"t-test on log CPM",533,17,0.0318949343339587,0.86
+"10% DE",10,4,"Wilcoxon on CPM",522,13,0.024904214559387,0.848333333333333
+"10% DE",10,5,"DESeq2",604,50,0.0827814569536424,0.923333333333333
+"10% DE",10,5,"edgeR QL",570,35,0.0614035087719298,0.891666666666667
+"10% DE",10,5,"limma-voom",566,36,0.0636042402826855,0.883333333333333
+"10% DE",10,5,"t-test on log CPM",546,26,0.0476190476190476,0.866666666666667
+"10% DE",10,5,"Wilcoxon on CPM",537,18,0.0335195530726257,0.865
+"10% DE",10,6,"DESeq2",598,38,0.0635451505016722,0.933333333333333
+"10% DE",10,6,"edgeR QL",570,27,0.0473684210526316,0.905
+"10% DE",10,6,"limma-voom",564,25,0.0443262411347518,0.898333333333333
+"10% DE",10,6,"t-test on log CPM",552,24,0.0434782608695652,0.88
+"10% DE",10,6,"Wilcoxon on CPM",546,22,0.0402930402930403,0.873333333333333
+"10% DE",10,7,"DESeq2",595,37,0.0621848739495798,0.93
+"10% DE",10,7,"edgeR QL",568,30,0.0528169014084507,0.896666666666667
+"10% DE",10,7,"limma-voom",561,27,0.0481283422459893,0.89
+"10% DE",10,7,"t-test on log CPM",548,20,0.0364963503649635,0.88
+"10% DE",10,7,"Wilcoxon on CPM",532,17,0.0319548872180451,0.858333333333333
+"10% DE",10,8,"DESeq2",591,43,0.0727580372250423,0.913333333333333
+"10% DE",10,8,"edgeR QL",571,32,0.0560420315236427,0.898333333333333
+"10% DE",10,8,"limma-voom",563,30,0.0532859680284192,0.888333333333333
+"10% DE",10,8,"t-test on log CPM",544,29,0.0533088235294118,0.858333333333333
+"10% DE",10,8,"Wilcoxon on CPM",537,25,0.0465549348230912,0.853333333333333
+"10% DE",10,9,"DESeq2",585,33,0.0564102564102564,0.92
+"10% DE",10,9,"edgeR QL",547,22,0.0402193784277879,0.875
+"10% DE",10,9,"limma-voom",550,22,0.04,0.88
+"10% DE",10,9,"t-test on log CPM",528,14,0.0265151515151515,0.856666666666667
+"10% DE",10,9,"Wilcoxon on CPM",520,11,0.0211538461538462,0.848333333333333
+"10% DE",10,10,"DESeq2",591,42,0.0710659898477157,0.915
+"10% DE",10,10,"edgeR QL",569,33,0.0579964850615114,0.893333333333333
+"10% DE",10,10,"limma-voom",551,23,0.0417422867513612,0.88
+"10% DE",10,10,"t-test on log CPM",534,24,0.0449438202247191,0.85
+"10% DE",10,10,"Wilcoxon on CPM",533,22,0.0412757973733583,0.851666666666667
+"10% DE",10,11,"DESeq2",596,44,0.0738255033557047,0.92
+"10% DE",10,11,"edgeR QL",568,34,0.0598591549295775,0.89
+"10% DE",10,11,"limma-voom",568,32,0.0563380281690141,0.893333333333333
+"10% DE",10,11,"t-test on log CPM",545,22,0.0403669724770642,0.871666666666667
+"10% DE",10,11,"Wilcoxon on CPM",544,24,0.0441176470588235,0.866666666666667
+"10% DE",10,12,"DESeq2",578,33,0.0570934256055363,0.908333333333333
+"10% DE",10,12,"edgeR QL",550,25,0.0454545454545455,0.875
+"10% DE",10,12,"limma-voom",541,21,0.0388170055452865,0.866666666666667
+"10% DE",10,12,"t-test on log CPM",530,18,0.0339622641509434,0.853333333333333
+"10% DE",10,12,"Wilcoxon on CPM",525,16,0.0304761904761905,0.848333333333333
+"10% DE",10,13,"DESeq2",580,29,0.05,0.918333333333333
+"10% DE",10,13,"edgeR QL",547,19,0.0347349177330896,0.88
+"10% DE",10,13,"limma-voom",549,20,0.0364298724954463,0.881666666666667
+"10% DE",10,13,"t-test on log CPM",535,23,0.0429906542056075,0.853333333333333
+"10% DE",10,13,"Wilcoxon on CPM",530,18,0.0339622641509434,0.853333333333333
+"10% DE",10,14,"DESeq2",591,47,0.0795262267343486,0.906666666666667
+"10% DE",10,14,"edgeR QL",558,35,0.0627240143369176,0.871666666666667
+"10% DE",10,14,"limma-voom",556,33,0.0593525179856115,0.871666666666667
+"10% DE",10,14,"t-test on log CPM",542,28,0.0516605166051661,0.856666666666667
+"10% DE",10,14,"Wilcoxon on CPM",530,21,0.039622641509434,0.848333333333333
+"10% DE",10,15,"DESeq2",593,35,0.0590219224283305,0.93
+"10% DE",10,15,"edgeR QL",559,25,0.0447227191413238,0.89
+"10% DE",10,15,"limma-voom",550,20,0.0363636363636364,0.883333333333333
+"10% DE",10,15,"t-test on log CPM",536,19,0.0354477611940298,0.861666666666667
+"10% DE",10,15,"Wilcoxon on CPM",529,19,0.0359168241965974,0.85
+"10% DE",10,16,"DESeq2",580,35,0.0603448275862069,0.908333333333333
+"10% DE",10,16,"edgeR QL",557,24,0.0430879712746858,0.888333333333333
+"10% DE",10,16,"limma-voom",553,23,0.0415913200723327,0.883333333333333
+"10% DE",10,16,"t-test on log CPM",533,17,0.0318949343339587,0.86
+"10% DE",10,16,"Wilcoxon on CPM",536,24,0.0447761194029851,0.853333333333333
+"10% DE",10,17,"DESeq2",594,33,0.0555555555555556,0.935
+"10% DE",10,17,"edgeR QL",565,22,0.0389380530973451,0.905
+"10% DE",10,17,"limma-voom",558,22,0.039426523297491,0.893333333333333
+"10% DE",10,17,"t-test on log CPM",548,17,0.031021897810219,0.885
+"10% DE",10,17,"Wilcoxon on CPM",541,16,0.0295748613678373,0.875
+"10% DE",10,18,"DESeq2",583,32,0.0548885077186964,0.918333333333333
+"10% DE",10,18,"edgeR QL",551,21,0.0381125226860254,0.883333333333333
+"10% DE",10,18,"limma-voom",549,23,0.0418943533697632,0.876666666666667
+"10% DE",10,18,"t-test on log CPM",532,16,0.0300751879699248,0.86
+"10% DE",10,18,"Wilcoxon on CPM",524,16,0.0305343511450382,0.846666666666667
+"10% DE",10,19,"DESeq2",590,41,0.0694915254237288,0.915
+"10% DE",10,19,"edgeR QL",566,28,0.049469964664311,0.896666666666667
+"10% DE",10,19,"limma-voom",560,28,0.05,0.886666666666667
+"10% DE",10,19,"t-test on log CPM",544,24,0.0441176470588235,0.866666666666667
+"10% DE",10,19,"Wilcoxon on CPM",531,17,0.032015065913371,0.856666666666667
+"10% DE",10,20,"DESeq2",571,35,0.0612959719789842,0.893333333333333
+"10% DE",10,20,"edgeR QL",542,25,0.0461254612546125,0.861666666666667
+"10% DE",10,20,"limma-voom",534,21,0.0393258426966292,0.855
+"10% DE",10,20,"t-test on log CPM",516,18,0.0348837209302326,0.83
+"10% DE",10,20,"Wilcoxon on CPM",514,16,0.0311284046692607,0.83
+"no DE (null)",3,1,"DESeq2",0,0,0,NA
+"no DE (null)",3,1,"edgeR QL",0,0,0,NA
+"no DE (null)",3,1,"limma-voom",0,0,0,NA
+"no DE (null)",3,1,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,1,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,2,"DESeq2",1,1,1,NA
+"no DE (null)",3,2,"edgeR QL",0,0,0,NA
+"no DE (null)",3,2,"limma-voom",0,0,0,NA
+"no DE (null)",3,2,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,2,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,3,"DESeq2",1,1,1,NA
+"no DE (null)",3,3,"edgeR QL",0,0,0,NA
+"no DE (null)",3,3,"limma-voom",0,0,0,NA
+"no DE (null)",3,3,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,3,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,4,"DESeq2",0,0,0,NA
+"no DE (null)",3,4,"edgeR QL",0,0,0,NA
+"no DE (null)",3,4,"limma-voom",0,0,0,NA
+"no DE (null)",3,4,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,4,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,5,"DESeq2",0,0,0,NA
+"no DE (null)",3,5,"edgeR QL",0,0,0,NA
+"no DE (null)",3,5,"limma-voom",0,0,0,NA
+"no DE (null)",3,5,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,5,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,6,"DESeq2",0,0,0,NA
+"no DE (null)",3,6,"edgeR QL",0,0,0,NA
+"no DE (null)",3,6,"limma-voom",0,0,0,NA
+"no DE (null)",3,6,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,6,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,7,"DESeq2",4,4,1,NA
+"no DE (null)",3,7,"edgeR QL",0,0,0,NA
+"no DE (null)",3,7,"limma-voom",0,0,0,NA
+"no DE (null)",3,7,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,7,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,8,"DESeq2",2,2,1,NA
+"no DE (null)",3,8,"edgeR QL",0,0,0,NA
+"no DE (null)",3,8,"limma-voom",0,0,0,NA
+"no DE (null)",3,8,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,8,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,9,"DESeq2",6,6,1,NA
+"no DE (null)",3,9,"edgeR QL",0,0,0,NA
+"no DE (null)",3,9,"limma-voom",0,0,0,NA
+"no DE (null)",3,9,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,9,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,10,"DESeq2",0,0,0,NA
+"no DE (null)",3,10,"edgeR QL",0,0,0,NA
+"no DE (null)",3,10,"limma-voom",0,0,0,NA
+"no DE (null)",3,10,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,10,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,11,"DESeq2",2,2,1,NA
+"no DE (null)",3,11,"edgeR QL",0,0,0,NA
+"no DE (null)",3,11,"limma-voom",0,0,0,NA
+"no DE (null)",3,11,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,11,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,12,"DESeq2",3,3,1,NA
+"no DE (null)",3,12,"edgeR QL",0,0,0,NA
+"no DE (null)",3,12,"limma-voom",0,0,0,NA
+"no DE (null)",3,12,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,12,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,13,"DESeq2",1,1,1,NA
+"no DE (null)",3,13,"edgeR QL",0,0,0,NA
+"no DE (null)",3,13,"limma-voom",0,0,0,NA
+"no DE (null)",3,13,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,13,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,14,"DESeq2",2,2,1,NA
+"no DE (null)",3,14,"edgeR QL",0,0,0,NA
+"no DE (null)",3,14,"limma-voom",0,0,0,NA
+"no DE (null)",3,14,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,14,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,15,"DESeq2",1,1,1,NA
+"no DE (null)",3,15,"edgeR QL",0,0,0,NA
+"no DE (null)",3,15,"limma-voom",0,0,0,NA
+"no DE (null)",3,15,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,15,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,16,"DESeq2",6,6,1,NA
+"no DE (null)",3,16,"edgeR QL",0,0,0,NA
+"no DE (null)",3,16,"limma-voom",0,0,0,NA
+"no DE (null)",3,16,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,16,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,17,"DESeq2",0,0,0,NA
+"no DE (null)",3,17,"edgeR QL",0,0,0,NA
+"no DE (null)",3,17,"limma-voom",0,0,0,NA
+"no DE (null)",3,17,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,17,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,18,"DESeq2",2,2,1,NA
+"no DE (null)",3,18,"edgeR QL",0,0,0,NA
+"no DE (null)",3,18,"limma-voom",0,0,0,NA
+"no DE (null)",3,18,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,18,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,19,"DESeq2",0,0,0,NA
+"no DE (null)",3,19,"edgeR QL",0,0,0,NA
+"no DE (null)",3,19,"limma-voom",0,0,0,NA
+"no DE (null)",3,19,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,19,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",3,20,"DESeq2",2,2,1,NA
+"no DE (null)",3,20,"edgeR QL",0,0,0,NA
+"no DE (null)",3,20,"limma-voom",0,0,0,NA
+"no DE (null)",3,20,"t-test on log CPM",0,0,0,NA
+"no DE (null)",3,20,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,1,"DESeq2",3,3,1,NA
+"no DE (null)",5,1,"edgeR QL",0,0,0,NA
+"no DE (null)",5,1,"limma-voom",0,0,0,NA
+"no DE (null)",5,1,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,1,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,2,"DESeq2",0,0,0,NA
+"no DE (null)",5,2,"edgeR QL",0,0,0,NA
+"no DE (null)",5,2,"limma-voom",0,0,0,NA
+"no DE (null)",5,2,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,2,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,3,"DESeq2",3,3,1,NA
+"no DE (null)",5,3,"edgeR QL",1,1,1,NA
+"no DE (null)",5,3,"limma-voom",1,1,1,NA
+"no DE (null)",5,3,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,3,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,4,"DESeq2",1,1,1,NA
+"no DE (null)",5,4,"edgeR QL",0,0,0,NA
+"no DE (null)",5,4,"limma-voom",0,0,0,NA
+"no DE (null)",5,4,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,4,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,5,"DESeq2",1,1,1,NA
+"no DE (null)",5,5,"edgeR QL",0,0,0,NA
+"no DE (null)",5,5,"limma-voom",0,0,0,NA
+"no DE (null)",5,5,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,5,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,6,"DESeq2",1,1,1,NA
+"no DE (null)",5,6,"edgeR QL",0,0,0,NA
+"no DE (null)",5,6,"limma-voom",0,0,0,NA
+"no DE (null)",5,6,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,6,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,7,"DESeq2",0,0,0,NA
+"no DE (null)",5,7,"edgeR QL",0,0,0,NA
+"no DE (null)",5,7,"limma-voom",0,0,0,NA
+"no DE (null)",5,7,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,7,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,8,"DESeq2",0,0,0,NA
+"no DE (null)",5,8,"edgeR QL",0,0,0,NA
+"no DE (null)",5,8,"limma-voom",0,0,0,NA
+"no DE (null)",5,8,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,8,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,9,"DESeq2",1,1,1,NA
+"no DE (null)",5,9,"edgeR QL",0,0,0,NA
+"no DE (null)",5,9,"limma-voom",0,0,0,NA
+"no DE (null)",5,9,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,9,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,10,"DESeq2",2,2,1,NA
+"no DE (null)",5,10,"edgeR QL",0,0,0,NA
+"no DE (null)",5,10,"limma-voom",0,0,0,NA
+"no DE (null)",5,10,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,10,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,11,"DESeq2",0,0,0,NA
+"no DE (null)",5,11,"edgeR QL",0,0,0,NA
+"no DE (null)",5,11,"limma-voom",0,0,0,NA
+"no DE (null)",5,11,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,11,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,12,"DESeq2",1,1,1,NA
+"no DE (null)",5,12,"edgeR QL",0,0,0,NA
+"no DE (null)",5,12,"limma-voom",0,0,0,NA
+"no DE (null)",5,12,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,12,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,13,"DESeq2",0,0,0,NA
+"no DE (null)",5,13,"edgeR QL",0,0,0,NA
+"no DE (null)",5,13,"limma-voom",0,0,0,NA
+"no DE (null)",5,13,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,13,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,14,"DESeq2",3,3,1,NA
+"no DE (null)",5,14,"edgeR QL",0,0,0,NA
+"no DE (null)",5,14,"limma-voom",0,0,0,NA
+"no DE (null)",5,14,"t-test on log CPM",1,1,1,NA
+"no DE (null)",5,14,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,15,"DESeq2",0,0,0,NA
+"no DE (null)",5,15,"edgeR QL",0,0,0,NA
+"no DE (null)",5,15,"limma-voom",0,0,0,NA
+"no DE (null)",5,15,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,15,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,16,"DESeq2",0,0,0,NA
+"no DE (null)",5,16,"edgeR QL",0,0,0,NA
+"no DE (null)",5,16,"limma-voom",0,0,0,NA
+"no DE (null)",5,16,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,16,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,17,"DESeq2",1,1,1,NA
+"no DE (null)",5,17,"edgeR QL",0,0,0,NA
+"no DE (null)",5,17,"limma-voom",0,0,0,NA
+"no DE (null)",5,17,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,17,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,18,"DESeq2",2,2,1,NA
+"no DE (null)",5,18,"edgeR QL",0,0,0,NA
+"no DE (null)",5,18,"limma-voom",0,0,0,NA
+"no DE (null)",5,18,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,18,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,19,"DESeq2",1,1,1,NA
+"no DE (null)",5,19,"edgeR QL",0,0,0,NA
+"no DE (null)",5,19,"limma-voom",0,0,0,NA
+"no DE (null)",5,19,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,19,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",5,20,"DESeq2",2,2,1,NA
+"no DE (null)",5,20,"edgeR QL",0,0,0,NA
+"no DE (null)",5,20,"limma-voom",0,0,0,NA
+"no DE (null)",5,20,"t-test on log CPM",0,0,0,NA
+"no DE (null)",5,20,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,1,"DESeq2",1,1,1,NA
+"no DE (null)",10,1,"edgeR QL",0,0,0,NA
+"no DE (null)",10,1,"limma-voom",0,0,0,NA
+"no DE (null)",10,1,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,1,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,2,"DESeq2",0,0,0,NA
+"no DE (null)",10,2,"edgeR QL",0,0,0,NA
+"no DE (null)",10,2,"limma-voom",0,0,0,NA
+"no DE (null)",10,2,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,2,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,3,"DESeq2",2,2,1,NA
+"no DE (null)",10,3,"edgeR QL",0,0,0,NA
+"no DE (null)",10,3,"limma-voom",0,0,0,NA
+"no DE (null)",10,3,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,3,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,4,"DESeq2",1,1,1,NA
+"no DE (null)",10,4,"edgeR QL",0,0,0,NA
+"no DE (null)",10,4,"limma-voom",0,0,0,NA
+"no DE (null)",10,4,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,4,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,5,"DESeq2",2,2,1,NA
+"no DE (null)",10,5,"edgeR QL",0,0,0,NA
+"no DE (null)",10,5,"limma-voom",0,0,0,NA
+"no DE (null)",10,5,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,5,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,6,"DESeq2",0,0,0,NA
+"no DE (null)",10,6,"edgeR QL",0,0,0,NA
+"no DE (null)",10,6,"limma-voom",0,0,0,NA
+"no DE (null)",10,6,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,6,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,7,"DESeq2",1,1,1,NA
+"no DE (null)",10,7,"edgeR QL",0,0,0,NA
+"no DE (null)",10,7,"limma-voom",0,0,0,NA
+"no DE (null)",10,7,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,7,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,8,"DESeq2",0,0,0,NA
+"no DE (null)",10,8,"edgeR QL",0,0,0,NA
+"no DE (null)",10,8,"limma-voom",0,0,0,NA
+"no DE (null)",10,8,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,8,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,9,"DESeq2",0,0,0,NA
+"no DE (null)",10,9,"edgeR QL",0,0,0,NA
+"no DE (null)",10,9,"limma-voom",0,0,0,NA
+"no DE (null)",10,9,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,9,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,10,"DESeq2",2,2,1,NA
+"no DE (null)",10,10,"edgeR QL",0,0,0,NA
+"no DE (null)",10,10,"limma-voom",0,0,0,NA
+"no DE (null)",10,10,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,10,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,11,"DESeq2",0,0,0,NA
+"no DE (null)",10,11,"edgeR QL",0,0,0,NA
+"no DE (null)",10,11,"limma-voom",0,0,0,NA
+"no DE (null)",10,11,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,11,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,12,"DESeq2",1,1,1,NA
+"no DE (null)",10,12,"edgeR QL",0,0,0,NA
+"no DE (null)",10,12,"limma-voom",0,0,0,NA
+"no DE (null)",10,12,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,12,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,13,"DESeq2",0,0,0,NA
+"no DE (null)",10,13,"edgeR QL",0,0,0,NA
+"no DE (null)",10,13,"limma-voom",0,0,0,NA
+"no DE (null)",10,13,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,13,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,14,"DESeq2",0,0,0,NA
+"no DE (null)",10,14,"edgeR QL",0,0,0,NA
+"no DE (null)",10,14,"limma-voom",0,0,0,NA
+"no DE (null)",10,14,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,14,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,15,"DESeq2",0,0,0,NA
+"no DE (null)",10,15,"edgeR QL",0,0,0,NA
+"no DE (null)",10,15,"limma-voom",0,0,0,NA
+"no DE (null)",10,15,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,15,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,16,"DESeq2",2,2,1,NA
+"no DE (null)",10,16,"edgeR QL",1,1,1,NA
+"no DE (null)",10,16,"limma-voom",1,1,1,NA
+"no DE (null)",10,16,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,16,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,17,"DESeq2",0,0,0,NA
+"no DE (null)",10,17,"edgeR QL",0,0,0,NA
+"no DE (null)",10,17,"limma-voom",0,0,0,NA
+"no DE (null)",10,17,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,17,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,18,"DESeq2",0,0,0,NA
+"no DE (null)",10,18,"edgeR QL",0,0,0,NA
+"no DE (null)",10,18,"limma-voom",0,0,0,NA
+"no DE (null)",10,18,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,18,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,19,"DESeq2",1,1,1,NA
+"no DE (null)",10,19,"edgeR QL",0,0,0,NA
+"no DE (null)",10,19,"limma-voom",0,0,0,NA
+"no DE (null)",10,19,"t-test on log CPM",0,0,0,NA
+"no DE (null)",10,19,"Wilcoxon on CPM",0,0,0,NA
+"no DE (null)",10,20,"DESeq2",3,3,1,NA
+"no DE (null)",10,20,"edgeR QL",0,0,0,NA
+"no DE (null)",10,20,"limma-voom",0,0,0,NA
+"no DE (null)",10,20,"t-test on log CPM",1,1,1,NA
+"no DE (null)",10,20,"Wilcoxon on CPM",0,0,0,NA
+"10% DE, outlier sample",5,1,"DESeq2",495,31,0.0626262626262626,0.773333333333333
+"10% DE, outlier sample",5,1,"edgeR QL",457,15,0.0328227571115974,0.736666666666667
+"10% DE, outlier sample",5,1,"limma-voom",455,19,0.0417582417582418,0.726666666666667
+"10% DE, outlier sample",5,1,"t-test on log CPM",375,15,0.04,0.6
+"10% DE, outlier sample",5,1,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,2,"DESeq2",514,38,0.0739299610894942,0.793333333333333
+"10% DE, outlier sample",5,2,"edgeR QL",481,18,0.0374220374220374,0.771666666666667
+"10% DE, outlier sample",5,2,"limma-voom",481,21,0.0436590436590437,0.766666666666667
+"10% DE, outlier sample",5,2,"t-test on log CPM",382,14,0.0366492146596859,0.613333333333333
+"10% DE, outlier sample",5,2,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,3,"DESeq2",511,19,0.0371819960861057,0.82
+"10% DE, outlier sample",5,3,"edgeR QL",487,12,0.0246406570841889,0.791666666666667
+"10% DE, outlier sample",5,3,"limma-voom",482,11,0.0228215767634855,0.785
+"10% DE, outlier sample",5,3,"t-test on log CPM",415,17,0.0409638554216867,0.663333333333333
+"10% DE, outlier sample",5,3,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,4,"DESeq2",527,38,0.0721062618595825,0.815
+"10% DE, outlier sample",5,4,"edgeR QL",498,25,0.0502008032128514,0.788333333333333
+"10% DE, outlier sample",5,4,"limma-voom",494,24,0.048582995951417,0.783333333333333
+"10% DE, outlier sample",5,4,"t-test on log CPM",408,13,0.0318627450980392,0.658333333333333
+"10% DE, outlier sample",5,4,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,5,"DESeq2",515,34,0.0660194174757282,0.801666666666667
+"10% DE, outlier sample",5,5,"edgeR QL",462,12,0.025974025974026,0.75
+"10% DE, outlier sample",5,5,"limma-voom",458,14,0.0305676855895196,0.74
+"10% DE, outlier sample",5,5,"t-test on log CPM",388,9,0.0231958762886598,0.631666666666667
+"10% DE, outlier sample",5,5,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,6,"DESeq2",504,32,0.0634920634920635,0.786666666666667
+"10% DE, outlier sample",5,6,"edgeR QL",468,24,0.0512820512820513,0.74
+"10% DE, outlier sample",5,6,"limma-voom",458,18,0.0393013100436681,0.733333333333333
+"10% DE, outlier sample",5,6,"t-test on log CPM",382,16,0.0418848167539267,0.61
+"10% DE, outlier sample",5,6,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,7,"DESeq2",518,38,0.0733590733590734,0.8
+"10% DE, outlier sample",5,7,"edgeR QL",475,19,0.04,0.76
+"10% DE, outlier sample",5,7,"limma-voom",458,14,0.0305676855895196,0.74
+"10% DE, outlier sample",5,7,"t-test on log CPM",389,11,0.0282776349614396,0.63
+"10% DE, outlier sample",5,7,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,8,"DESeq2",499,33,0.0661322645290581,0.776666666666667
+"10% DE, outlier sample",5,8,"edgeR QL",459,13,0.028322440087146,0.743333333333333
+"10% DE, outlier sample",5,8,"limma-voom",454,15,0.0330396475770925,0.731666666666667
+"10% DE, outlier sample",5,8,"t-test on log CPM",364,9,0.0247252747252747,0.591666666666667
+"10% DE, outlier sample",5,8,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,9,"DESeq2",511,27,0.0528375733855186,0.806666666666667
+"10% DE, outlier sample",5,9,"edgeR QL",463,13,0.0280777537796976,0.75
+"10% DE, outlier sample",5,9,"limma-voom",461,14,0.0303687635574837,0.745
+"10% DE, outlier sample",5,9,"t-test on log CPM",356,6,0.0168539325842697,0.583333333333333
+"10% DE, outlier sample",5,9,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,10,"DESeq2",522,38,0.0727969348659004,0.806666666666667
+"10% DE, outlier sample",5,10,"edgeR QL",493,22,0.0446247464503043,0.785
+"10% DE, outlier sample",5,10,"limma-voom",486,21,0.0432098765432099,0.775
+"10% DE, outlier sample",5,10,"t-test on log CPM",393,10,0.0254452926208651,0.638333333333333
+"10% DE, outlier sample",5,10,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,11,"DESeq2",534,44,0.0823970037453183,0.816666666666667
+"10% DE, outlier sample",5,11,"edgeR QL",497,22,0.0442655935613682,0.791666666666667
+"10% DE, outlier sample",5,11,"limma-voom",491,21,0.0427698574338086,0.783333333333333
+"10% DE, outlier sample",5,11,"t-test on log CPM",399,14,0.0350877192982456,0.641666666666667
+"10% DE, outlier sample",5,11,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,12,"DESeq2",497,36,0.0724346076458753,0.768333333333333
+"10% DE, outlier sample",5,12,"edgeR QL",450,16,0.0355555555555556,0.723333333333333
+"10% DE, outlier sample",5,12,"limma-voom",443,17,0.0383747178329571,0.71
+"10% DE, outlier sample",5,12,"t-test on log CPM",321,3,0.00934579439252336,0.53
+"10% DE, outlier sample",5,12,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,13,"DESeq2",533,46,0.0863039399624766,0.811666666666667
+"10% DE, outlier sample",5,13,"edgeR QL",498,26,0.0522088353413655,0.786666666666667
+"10% DE, outlier sample",5,13,"limma-voom",496,28,0.0564516129032258,0.78
+"10% DE, outlier sample",5,13,"t-test on log CPM",408,15,0.0367647058823529,0.655
+"10% DE, outlier sample",5,13,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,14,"DESeq2",533,40,0.075046904315197,0.821666666666667
+"10% DE, outlier sample",5,14,"edgeR QL",476,12,0.0252100840336134,0.773333333333333
+"10% DE, outlier sample",5,14,"limma-voom",473,10,0.0211416490486258,0.771666666666667
+"10% DE, outlier sample",5,14,"t-test on log CPM",401,10,0.0249376558603491,0.651666666666667
+"10% DE, outlier sample",5,14,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,15,"DESeq2",527,43,0.0815939278937381,0.806666666666667
+"10% DE, outlier sample",5,15,"edgeR QL",483,18,0.0372670807453416,0.775
+"10% DE, outlier sample",5,15,"limma-voom",482,18,0.037344398340249,0.773333333333333
+"10% DE, outlier sample",5,15,"t-test on log CPM",402,11,0.027363184079602,0.651666666666667
+"10% DE, outlier sample",5,15,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,16,"DESeq2",526,39,0.0741444866920152,0.811666666666667
+"10% DE, outlier sample",5,16,"edgeR QL",490,17,0.0346938775510204,0.788333333333333
+"10% DE, outlier sample",5,16,"limma-voom",487,20,0.0410677618069815,0.778333333333333
+"10% DE, outlier sample",5,16,"t-test on log CPM",389,6,0.0154241645244216,0.638333333333333
+"10% DE, outlier sample",5,16,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,17,"DESeq2",495,30,0.0606060606060606,0.775
+"10% DE, outlier sample",5,17,"edgeR QL",468,21,0.0448717948717949,0.745
+"10% DE, outlier sample",5,17,"limma-voom",458,19,0.0414847161572052,0.731666666666667
+"10% DE, outlier sample",5,17,"t-test on log CPM",370,15,0.0405405405405405,0.591666666666667
+"10% DE, outlier sample",5,17,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,18,"DESeq2",513,34,0.0662768031189084,0.798333333333333
+"10% DE, outlier sample",5,18,"edgeR QL",472,17,0.0360169491525424,0.758333333333333
+"10% DE, outlier sample",5,18,"limma-voom",471,19,0.0403397027600849,0.753333333333333
+"10% DE, outlier sample",5,18,"t-test on log CPM",390,15,0.0384615384615385,0.625
+"10% DE, outlier sample",5,18,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,19,"DESeq2",519,38,0.0732177263969171,0.801666666666667
+"10% DE, outlier sample",5,19,"edgeR QL",484,24,0.0495867768595041,0.766666666666667
+"10% DE, outlier sample",5,19,"limma-voom",487,26,0.053388090349076,0.768333333333333
+"10% DE, outlier sample",5,19,"t-test on log CPM",391,12,0.030690537084399,0.631666666666667
+"10% DE, outlier sample",5,19,"Wilcoxon on CPM",0,0,0,0
+"10% DE, outlier sample",5,20,"DESeq2",533,42,0.0787992495309568,0.818333333333333
+"10% DE, outlier sample",5,20,"edgeR QL",498,20,0.0401606425702811,0.796666666666667
+"10% DE, outlier sample",5,20,"limma-voom",494,23,0.0465587044534413,0.785
+"10% DE, outlier sample",5,20,"t-test on log CPM",389,13,0.0334190231362468,0.626666666666667
+"10% DE, outlier sample",5,20,"Wilcoxon on CPM",0,0,0,0
